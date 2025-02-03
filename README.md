@@ -40,6 +40,3 @@ Here are the main business questions I addressed in this project:
 - Recognized best-selling products, guiding inventory and promotional strategies.  
 - Gained insights into store-wise performance, useful for location-based marketing efforts.  
 
----  
-
-You can customize this further based on your specific findings and the features of your dashboard. Let me know if you want any refinements! 🚀
